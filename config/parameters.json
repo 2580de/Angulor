@@ -1,0 +1,17 @@
+{
+  "system_name": "Intelligent Mind",
+  "version": "IM-01",
+  "model": {
+    "weight": 2.0,
+    "bias": -0.3,
+    "threshold": 0.7
+  },
+  "learning": {
+    "learning_rate": 0.01,
+    "enabled": false
+  },
+  "memory": {
+    "enabled": true,
+    "max_records": 1000
+  }
+}
